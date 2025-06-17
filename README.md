@@ -9,7 +9,7 @@
 
 ---
 
-Este repositorio contiene los directorio “/root”, “/etc”, “/opt”, “/proc”, “/www_dir” y “/backup_dir”. Cada uno comprimido en formato “.tar.gz”.
+Este repositorio contiene los directorio “/root”, “/etc”, “/opt”, “/proc”, “/var”, “/www_dir” y “/backup_dir”. Cada uno comprimido en formato “.tar.gz”.
 
 ----
 ## Diagrama topológico
